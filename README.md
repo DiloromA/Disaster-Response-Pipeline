@@ -1,5 +1,5 @@
 # Disaster Response Pipeline Project
-![DisasterResponseAppDemo](media/DisasterResponseAppDemo.gif)
+![DisasterResponseAppDemo](https://github.com/DiloromA/Disaster-Response-Pipeline/blob/main/media/screenshot_1.JPG)
 ### Overview
 This is a project that uses natural language processing (NLP) to classify text in to relavant categories. The project goal is to help reduce the reaction time of disaster response teams by quickly identifying scale of disaster, volume of requests for aid and etc by classifing incoming texts in disaster situations. The project could be adapted or/optimized to use in similar situations. 
 
