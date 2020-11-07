@@ -43,4 +43,5 @@ A web app that displays the model results. A user can enter a message to classif
 3. Go to http://0.0.0.0:3001/
 
 ### Acknowledgements
-1. GitHub users jkarakas and xiaoye318024.
+1. https://github.com/jkarakas/Disaster-Response-Pipeline
+2. https://github.com/xiaoye318024/Disaster-Response-Pipeline
