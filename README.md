@@ -1,4 +1,5 @@
 # Disaster Response Pipeline Project
+![screenshot](https://github.com/DiloromA/Disaster_Response/blob/main/media/screenshot_1.JPG?raw=true)
 This is a project that uses natural language processing (NLP) to classify text in to relavant categories.  
 The project goal is to help reduce the reaction time of disaster response teams by quickly identifying scale of disaster, volume of requests for aid and etc by classifing incoming texts in disaster situations. The project could be adapted or/optimized to use in similar situations. 
 Two data sets that contain text messages and categories were provided by FigureEight via Udacity Data Scientist Nano Degree program. Text contains  messages in different languages (with translation into English) that were sent during disasters. In this project, I used NLP and Machine Learning Pipeline to classify messages in to one or more of 36 categories. 
